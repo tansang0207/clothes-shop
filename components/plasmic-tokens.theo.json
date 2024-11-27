@@ -1,0 +1,89 @@
+{
+  "props": [
+    {
+      "name": "Black",
+      "type": "color",
+      "value": "#010101",
+      "category": "color",
+      "meta": {
+        "projectId": "qAHxie4pG5fD4zBBMRe14U",
+        "id": "qqnnt_6EMaSc"
+      }
+    },
+    {
+      "name": "White",
+      "type": "color",
+      "value": "#FCFBFB",
+      "category": "color",
+      "meta": {
+        "projectId": "qAHxie4pG5fD4zBBMRe14U",
+        "id": "XPKvv-g8iPl8"
+      }
+    },
+    {
+      "name": "Yellow hover",
+      "type": "color",
+      "value": "#EFEC03",
+      "category": "color",
+      "meta": {
+        "projectId": "qAHxie4pG5fD4zBBMRe14U",
+        "id": "tmTgg7xBcLKx"
+      }
+    },
+    {
+      "name": "button",
+      "type": "color",
+      "value": "#FF85B4",
+      "category": "color",
+      "meta": {
+        "projectId": "qAHxie4pG5fD4zBBMRe14U",
+        "id": "ZL1n7wHlLaN-"
+      }
+    },
+    {
+      "name": "green",
+      "type": "color",
+      "value": "#00A95A",
+      "category": "color",
+      "meta": {
+        "projectId": "qAHxie4pG5fD4zBBMRe14U",
+        "id": "rRGmTZGGbudD"
+      }
+    },
+    {
+      "name": "hover",
+      "type": "color",
+      "value": "#CB3A0899",
+      "category": "color",
+      "meta": {
+        "projectId": "qAHxie4pG5fD4zBBMRe14U",
+        "id": "Q7qwlQyh6NOX"
+      }
+    },
+    {
+      "name": "hover pink",
+      "type": "color",
+      "value": "#FF3985",
+      "category": "color",
+      "meta": {
+        "projectId": "qAHxie4pG5fD4zBBMRe14U",
+        "id": "Xkki81RDLTzp"
+      }
+    },
+    {
+      "name": "shadows",
+      "type": "color",
+      "value": "#FDFB75",
+      "category": "color",
+      "meta": {
+        "projectId": "qAHxie4pG5fD4zBBMRe14U",
+        "id": "cxgHvDGD616W"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
